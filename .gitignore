@@ -1,0 +1,6 @@
+!.gitignore
+env*
+*.pyc
+.idea*
+.DS_Store
+nohup.out
